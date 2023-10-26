@@ -1,0 +1,2 @@
+# scannerProject
+For maven class
